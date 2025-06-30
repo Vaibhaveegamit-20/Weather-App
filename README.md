@@ -10,3 +10,10 @@ The features of the app are as follows:
 6) It displays details about various metrics like humidity, wind, sunrise, sunset and various more features.
 7) It displays 3-hour and daily weather forecast.
 8) The system shows color-coded toast notifications like blue for fetching data, green after fetching data and red when the data is not fetched. 
+
+**Instructions**
+1. Clone the repository on your device or download the Zip folder. 
+2. To run the file run the following commands in the terminal
+3. Go to the destination folder i.e weather --> cd weather
+4. then install the npm files ---> npm install
+5. Then run the file --> npm run dev
